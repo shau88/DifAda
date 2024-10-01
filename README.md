@@ -1,7 +1,7 @@
 Adaptive Noise-Powered Diffusion Model for Efficient and Accurate Object Detection.
 
 ## Updates
-- (10/1/2024) Celebrating the National Day of China.Code is released.
+- (10/1/2024) Celebrating the National Day of China. Code is released.
 
 ## MODEL
 ## Models
